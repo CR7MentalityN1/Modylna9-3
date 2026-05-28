@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP_MODYLNA9 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c29a294e5b6444bc154b6c03470c7a64bb9c842")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac843c3ccad9e269f5ed6e12bd8571a124bfc6f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP_MODYLNA9 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP_MODYLNA9 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
